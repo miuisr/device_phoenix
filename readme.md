@@ -28,4 +28,4 @@ Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~386 ppi density
 
 ## Device picture
 
-![Xiaomi Redmi K30](https://xiaomi-mi.com/uploads/CatalogueImage/redmi-k30%20(10)_17912_1577645087.jpg "Xiaomi Redmi K30 in blue")
+![Xiaomi Redmi K30](https://github.com/miuisr/miuisr/blob/main/image_devices/phoenix.png "Xiaomi Redmi K30 in blue")
