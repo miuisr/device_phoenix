@@ -8,6 +8,10 @@
 - [Latest](https://github.com/miuisr)
 
 
+## Device picture
+
+![Xiaomi Redmi K30](https://github.com/miuisr/miuisr/blob/main/image_devices/phoenix.png "Xiaomi Redmi K30 in blue")
+
 Device configuration for Xiaomi Redmi K30
 =========================================
 
@@ -28,6 +32,4 @@ Storage | 64/128/256 GB
 Battery | Non-removable Li-Po 4500 mAh battery
 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~386 ppi density)
 
-## Device picture
 
-![Xiaomi Redmi K30](https://github.com/miuisr/miuisr/blob/main/image_devices/phoenix.png "Xiaomi Redmi K30 in blue")
