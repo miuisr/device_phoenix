@@ -1,3 +1,7 @@
+Download Links
+<a href="#">Latest</a>
+
+
 Copyright (C) 2020 The LineageOS Project
 
 Device configuration for Xiaomi Redmi K30
