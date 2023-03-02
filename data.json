@@ -1,8 +1,8 @@
 {   
-   "Device_name": "Phoenix",
+   "Device_name": "Poco X2 | Pheonix",
    "Developer_name": "Retardpro",
    "tg": "https://www.telegram.me/retardpro",
-   "Latest_build_name": "MIUISR 14.0",
-   "Latest_build_link": "http://miuisr.pages.dev",
-   "Latest_build_link": "http://miuisr.lm/device_phoenix/changelog.txt"
+   "Latest_build_name": "Latest",
+   "Latest_build_link": "cloud.miuisr.ml",
+   "Changelog": "https://miuisr.ml/device_phoenix/changelog.txt"
 }
