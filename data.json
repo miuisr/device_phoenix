@@ -1,7 +1,6 @@
 {   
-   "Device_name": "Pheonix",
-   "Developer_name": "Retardpro",
-   "tg": "https://www.telegram.me/retardpro",
-   "Latest_build_name": "Latest",
-   "Latest_build_link": "cloud.miuisr.ml"
+   "DeviceName": "POCO X2",
+   "DeviceCodeName": "phoenix",
+   "DeveloperName": "ADX",
+   "DeveloperTg": "https://www.telegram.me/miuisr"
 }
